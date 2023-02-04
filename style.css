@@ -1,0 +1,70 @@
+
+h1{color:orange;
+margin-top:11%;
+
+} 
+
+h3{
+	color:black;	
+	text-decoration:none;
+	}
+	
+	img{margin-left:75%;
+	    height:80px;
+		position:absolute;
+		margin-top:120px;
+		} 
+h2{ margin-left:20%;
+}  
+
+p{ margin-left:35%;
+margin-top:5%;
+text-align: justify;
+}
+
+#pic{margin-left:20%;
+     border:2px solid red;
+	 border-radius:50%;
+	 margin-top:50px;
+	 height:150px;
+     } 
+	
+#text{ color:red;} 
+	
+#about{margin-left:20%;
+        margin-top:5%;}
+		
+#college{margin-left:20%;
+     border:2px solid red;
+	 border-radius:50%;
+	 margin-top:50px;
+	 height:150px;
+	 width:150px;
+     } 
+	 
+hr{margin-top:5%;
+   color:black;
+   } 
+   
+
+.navigation{
+	color:red;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+	font-family:"Times New Roman", Times, serif;
+	height:100px;
+	
+	
+}
+
+a{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	
+}
+a:hover{
+color:pink;}
+}
+ 
